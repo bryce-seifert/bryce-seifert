@@ -18,4 +18,4 @@ I'm available for freelance projects in the production automation realm. I've wo
 
 I'm knowledgable with Javascript, Typescript, NodeJS, Python, and creating simple, reliable solutions for complex problems.
 
-If you think I'd be a good fit for a project, [drop me an email](mailto:bryceapps@icloud.com) and we can chat.
+If you think I'd be a good fit for a project, [drop me an email](mailto:contact@bryce.fyi) and we can chat.
